@@ -21,3 +21,4 @@ dist/
 
 # Ship Studio workspace metadata
 .shipstudio/
+.vercel
